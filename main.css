@@ -1,10 +1,49 @@
+body{
+    background-color: purple;
+}
+
 .header {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-flow: wrap column;
+    background-color: purple;
 }
 
 p{
     font-size: 27px;
+    background-color: purple;
+}
+
+.all {
+    display: flex;
+    
+}
+
+.all1{
+    display: flex;
+}
+
+.introduction{
+    background-color: lightcyan;
+}
+
+.strengths {
+    background-color: lightgoldenrodyellow;
+}
+
+.weaknesses{
+    background-color: lightgreen;
+}
+
+.friendships{
+    background-color: lightseagreen;
+}
+
+.careerpaths{
+    background-color: lightblue;
+}
+
+.workplacehabits{
+    background-color: lightgrey;
 }
