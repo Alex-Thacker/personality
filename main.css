@@ -2,6 +2,7 @@ body{
     background-color: purple;
 }
 
+
 .header {
     display: flex;
     justify-content: center;
@@ -18,22 +19,28 @@ p{
 .all {
     display: flex;
     
+    
 }
 
 .all1{
     display: flex;
 }
 
+
+
 .introduction{
     background-color: lightcyan;
+  
 }
 
 .strengths {
     background-color: lightgoldenrodyellow;
+  
 }
 
 .weaknesses{
     background-color: lightgreen;
+    
 }
 
 .friendships{
@@ -46,4 +53,8 @@ p{
 
 .workplacehabits{
     background-color: lightgrey;
+}
+
+.img{
+    display: flex;
 }
